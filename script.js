@@ -7,10 +7,15 @@ console.log(todayDate);
 // to save button
 $(document).ready(function(){
     var text= $(this).siblings(".description").val();
-    var time = $(this).parent().attr("id";)
+    var time = $(this).parent().attr("id");
     localStorage.setItem(time, text);
 })
 // for time tracker
+function timeTracker(){
+    var timeNow = moment().hour();
+}
 // create loops over time blocks
+
+$(".time-block")
 //  check time and add classes for background indicators
 // save in local storage and get items to save them
