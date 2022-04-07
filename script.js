@@ -36,7 +36,9 @@ if (blockTime < timeNow) {
     $(this).removeClass("past");
     $(this).removeClass("future");
     $(this).addClass("present");
-} else {
+
+} 
+else {
     $(this).removeClass("present");
     $(this).removeClass("past");
     $(this).addClass("future");
