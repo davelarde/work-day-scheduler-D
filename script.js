@@ -46,8 +46,8 @@ if (blockTime < timeNow) {
 }
 // save in local storage and get items to save them
 
-$("#hour8 .description").val(localStorage.getItem("hour8"));
-$("#hour9 .description").val(localStorage.getItem("hour9"));
+$("#hour08 .description").val(localStorage.getItem("hour08"));
+$("#hour09 .description").val(localStorage.getItem("hour09"));
 $("#hour10 .description").val(localStorage.getItem("hour10"));
 $("#hour11 .description").val(localStorage.getItem("hour11"));
 $("#hour12.description").val(localStorage.getItem("hour12"));
