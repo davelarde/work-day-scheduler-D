@@ -12,5 +12,6 @@ I have created a clear button on the top left side for user to clear data in cas
 
 Below you can find a link that will direct you to the gif of demo for this scheduler. Please be aware that if it only shows one color on the time blocks, it might be , because is past the time of time-blocks. In case this happens in the demo folder , you will also find a screenshot with the mentioned colors.
 1. Link to the gif demo
-   <src="![Dani's dayscheduler](./DEMO/gif%20scheduler.gif)
+   ![Dani's dayscheduler](./DEMO/gif%20scheduler.gif)
 2. Link to the screenshot
+   ![Dani's dayscheduler](./DEMO/Screen%20Shot%202022-04-08%20at%209.09.30%20AM.png)
